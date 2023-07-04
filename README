@@ -6,6 +6,8 @@ Move to the root directory of the kernel source by 'cd ps4-baikal-5.4.247-kernel
 make -j9 to compile on playstation 4 linux
 bzImage located in 'arch/x86/boot/bzImage'
 
+Download Link to bzImage compiled: https://mega.nz/file/uRFj2bIb#DDdcNm1j5iNFL4fyHMnATvrZ-LmoRleOVshYfLaBgxw
+
 Linux kernel
 ============
 
